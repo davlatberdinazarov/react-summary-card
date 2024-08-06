@@ -1,0 +1,19 @@
+.container {
+  width: 100%;
+  height: 100vh;
+  background-color: #ecf2ff;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  width: 736px;
+  height: 512px;
+  top: 284px;
+  left: 352px;
+  gap: 0px;
+  border-radius: 32px;
+  opacity: 0px;
+}
